@@ -10,11 +10,13 @@ Este projeto é um **Gerador de Senhas** que cria senhas aleatórias e personali
 ---
 
 ## Funcionalidades
-- **Personalização**: Escolha o comprimento da senha (ex: 8 a 20 caracteres).
-- **Opções de caracteres**: Inclua letras maiúsculas, minúsculas, números e símbolos.
-- **Cópia para área de transferência**: Copie rapidamente a senha gerada com um clique.
+1. **Personalização**: Escolha o comprimento da senha (ex: 8 a 20 caracteres).
+2. **Opções de caracteres**: Inclua letras maiúsculas, minúsculas, números e símbolos.
+3. **Cópia para área de transferência**: Copie rapidamente a senha gerada com um clique.
 
 ## Tecnologias utilizadas
-- **HTML** - Interface para configuração e exibição da senha.
-- **CSS** - Estilização do layout e dos botões.
-- **JavaScript** - Lógica para geração de senhas e interatividade.
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
