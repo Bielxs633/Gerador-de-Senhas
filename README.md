@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/5686c01e-2bdb-4db8-b7a0-7c541ddcf763)
 
+---
+
 ## Sobre
 Este projeto é um **Gerador de Senhas** que cria senhas aleatórias e personalizáveis. Com ele, é possível gerar senhas fortes para proteger contas e informações pessoais, selecionando o tamanho e os tipos de caracteres.
 
