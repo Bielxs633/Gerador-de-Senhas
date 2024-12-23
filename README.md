@@ -14,6 +14,8 @@ Este projeto é um **Gerador de Senhas** que cria senhas aleatórias e personali
 2. **Opções de caracteres**: Inclua letras maiúsculas, minúsculas, números e símbolos.
 3. **Cópia para área de transferência**: Copie rapidamente a senha gerada com um clique.
 
+---
+
 ## Tecnologias utilizadas
 - **HTML**
 - **CSS**
